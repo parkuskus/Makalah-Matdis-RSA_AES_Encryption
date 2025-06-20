@@ -1,5 +1,5 @@
 # 🔐 Enhancing Protection for Database Management System via Encryption using Rivest-Shamir-Adleman (RSA) and Advanced Encryption Standard (AES) Algorithm
-This project is a GUI-based user management application built with Python. In this application, users can register accounts, log in, and have their data stored securely using RSA and AES encryption. Admins can also export user data to CSV files for auditing or documentation.
+This project is a GUI-based database management system (DBMS) application built with Python. In this application, administrator can register accounts, log in, and have their data stored securely using RSA and AES encryption. Admins can also export user data to CSV files for auditing or documentation.
 
 ## ✨ Features
 This application includes several essential features similar to what you'd expect in real-world secure login systems:
